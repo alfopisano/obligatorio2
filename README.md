@@ -1,4 +1,4 @@
-# Proyecto X
+# Proyecto 
 
 (2023-11-07 15:54:11): no hubo cambios.
 
