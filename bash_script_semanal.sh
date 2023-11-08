@@ -13,7 +13,7 @@ git pull
 # Realizar una comprobación para ver si hay cambios pendientes
 if [ "$(git status --porcelain)" != "" ]; then
     # Calcular la cantidad de líneas modificadas
-    lineas_modificadas=$(git diff --shortstat HEAD~1..HEAD | awk '{print "líneas añadidas " $4 ",", "líneas borradas " $6 ",", "total " $4 + $6}')
+    lineas_modificadas=$(git diff --shortstat HEAD~1..HEAD | awk '{print "líneas añadidas " $4 ",", "líneas borradas " $6 ",", "total de cambios " $4 + $6}')
 
     # Actualizar el archivo README.md
    (echo; echo "($(date +'%Y-%m-%d %H:%M:%S')): $lineas_modificadas") >> README.md
