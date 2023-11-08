@@ -1,4 +1,4 @@
-# Obligatorio 2
+# Proyecto X
 
 (2023-11-07 15:54:11): no hubo cambios.
 
