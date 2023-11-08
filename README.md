@@ -39,3 +39,5 @@ Cambios commit 2023-11-07 15:52:28: no hay cambios pendientes para confirmar.
 (2023-11-08 09:23:02): no hubo cambios.
 
 (2023-11-08 09:43:58): líneas añadidas 2, líneas borradas , total 2
+
+(2023-11-08 10:01:00): no hubo cambios.
