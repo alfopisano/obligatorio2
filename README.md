@@ -31,3 +31,5 @@
 (2023-11-08 10:18:04): no hubo cambios.
 
 (2023-11-08 10:21:04): líneas añadidas 2, líneas borradas , total 2
+
+(2023-11-08 10:42:24): no hubo cambios.
